@@ -63,4 +63,6 @@ Current work concentrates on designing scalable services, reliable infrastructur
 
 ### My Contributions So Far!
 
-<img  src="https://github-readme-stats.vercel.app/api?username=trants&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="trants">
+<img src="https://github-readme-stats.vercel.app/api?username=trants&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trants&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
