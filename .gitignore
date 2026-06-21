@@ -1,0 +1,6 @@
+# JetBrains IDEs (IntelliJ, PhpStorm, WebStorm, ...)
+.idea/
+
+# macOS
+.DS_Store
+._*
